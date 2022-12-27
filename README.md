@@ -1,1 +1,1 @@
-# Wed_automation_using_selenium
+# Web_automation_using_selenium
